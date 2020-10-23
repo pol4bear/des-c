@@ -1,4 +1,4 @@
-#include "DES.h"
+#include "des.h"
 
 // 초기 전치 함수
 static void IP(UBYTE p[8], UBYTE ip[8]);

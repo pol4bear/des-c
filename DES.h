@@ -1,6 +1,5 @@
 #pragma once
 
-
 typedef unsigned char UBYTE;
 
 // 복호화 함수
